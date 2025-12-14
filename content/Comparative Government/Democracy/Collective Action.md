@@ -1,4 +1,10 @@
-### Collective Action and Democracy
+---
+title:
+draft: false
+tags:
+  - democracy
+---
+```### Collective Action and Democracy
 - Democracy needs collective action to work 
 - Collective Action: groups of people work together to achieve a common goal
 - Democratic political engagement, like elections and protests, necessitates group action 

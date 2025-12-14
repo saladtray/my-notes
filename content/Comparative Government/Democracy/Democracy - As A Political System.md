@@ -1,3 +1,10 @@
+---
+title: Example Title
+draft: false
+tags:
+  - democracy
+---
+```
 There is no democracy, only hypocrisy - Malcolm X 
 
 **Democracy - Government of the people, by the people, for the people**

@@ -1,4 +1,10 @@
-
+---
+title:
+draft: false
+tags:
+  - democracy
+  - marginalized-groups
+---
 ### Socioeconomic Marginalization of Women
 - Homes with a female occupant are less likely to cover basic necessities (sewage, clean water, etc.) 36.5 vs 6.4
 - Women are 30% less likely to have access to education
